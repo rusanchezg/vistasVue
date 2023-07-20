@@ -1,0 +1,346 @@
+{
+    "body": [
+        {
+            "ordinal": 0,
+            "selection":3,
+            "cabecera": {
+                "desc": "Nacionalidad",
+                "longdesc": "País de nacimiento"
+            },
+            "contenido": [
+                {
+                    "valor": 0,
+                    "leyenda": "Sin selección"
+                },
+                {
+                    "valor": 1,
+                    "leyenda": "México"
+                },
+                {
+                    "valor": 2,
+                    "leyenda": "Estados Unidos"
+                },
+                {
+                    "valor": 3,
+                    "leyenda": "Canadá"
+                },
+                {
+                    "valor": 4,
+                    "leyenda": "Argentina"
+                },
+                {
+                    "valor": 5,
+                    "leyenda": "Colombia"
+                }
+            ]
+        },
+        {
+            "ordinal": 1,
+            "selection":0,
+            "cabecera": {
+                "desc": "Edad",
+                "longdesc": "Selecciona el rango de edad"
+            },
+            "contenido": [
+                {
+                    "valor": 0,
+                    "leyenda": "Sin selección"
+                },
+                {
+                    "valor": 1,
+                    "leyenda": "menos de 19 anios"
+                },
+                {
+                    "valor": 2,
+                    "leyenda": "entre 19 y 23 anios"
+                },
+                {
+                    "valor": 3,
+                    "leyenda": "entre 24 y 27 anios"
+                },
+                {
+                    "valor": 4,
+                    "leyenda": "entre 28 y 32 anios"
+                },
+                {
+                    "valor": 5,
+                    "leyenda": "entre 33 y 39 anios"
+                },
+                {
+                    "valor": 6,
+                    "leyenda": "entre 40 y 50 anios"
+                },
+                {
+                    "valor": 7,
+                    "leyenda": "entre 50 y 60 anios"
+                },
+                {
+                    "valor": 8,
+                    "leyenda": "mas de 60 anios"
+                }
+            ]
+        },
+        {
+            "ordinal": 2,
+            "selection":2,
+            "cabecera": {
+                "desc": "Estatura",
+                "longdesc": "Indica el rango de estatura"
+            },
+            "contenido": [
+                {
+                    "valor": 0,
+                    "leyenda": "Sin selección"
+                },
+                {
+                    "valor": 1,
+                    "leyenda": "menos de 1 metro con 40 cm"
+                },
+                {
+                    "valor": 2,
+                    "leyenda": "entre 1.40 y 1.50"
+                },
+                {
+                    "valor": 3,
+                    "leyenda": "entre 1.50 y 1.60"
+                },
+                {
+                    "valor": 4,
+                    "leyenda": "entre 1.60 y 1.65"
+                },
+                {
+                    "valor": 5,
+                    "leyenda": "entre 1.65 y 1.70"
+                },
+                {
+                    "valor": 6,
+                    "leyenda": "entre 1.70 y 1.75"
+                },
+                {
+                    "valor": 7,
+                    "leyenda": "entre 1.75 y 1.80"
+                },
+                {
+                    "valor": 8,
+                    "leyenda": "entre 1.80 y 1.90"
+                },
+                {
+                    "valor": 9,
+                    "leyenda": "mas de 1 metro con 90 cm"
+                }
+            ]
+        },
+        {
+            "ordinal": 3,
+            "selection":3,
+            "cabecera": {
+                "desc": "Peso",
+                "longdesc": "Indica el rango de peso"
+            },
+            "contenido": [
+                {
+                    "valor": 0,
+                    "leyenda": "Sin selección"
+                },
+                {
+                    "valor": 1,
+                    "leyenda": "menos de 45 kilos"
+                },
+                {
+                    "valor": 2,
+                    "leyenda": "entre 45 y 50 kilos"
+                },
+                {
+                    "valor": 3,
+                    "leyenda": "entre 50 y 55 kilos"
+                },
+                {
+                    "valor": 4,
+                    "leyenda": "entre 55 y 60 kilos"
+                },
+                {
+                    "valor": 5,
+                    "leyenda": "entre 60 y 65 kilos"
+                },
+                {
+                    "valor": 6,
+                    "leyenda": "entre 65 y 70 kilos"
+                },
+                {
+                    "valor": 7,
+                    "leyenda": "entre 70 y 75 kilos"
+                },
+                {
+                    "valor": 8,
+                    "leyenda": "entre 75 y 80 kilos"
+                },
+                {
+                    "valor": 9,
+                    "leyenda": "entre 80 y 85 kilos"
+                },
+                {
+                    "valor": 10,
+                    "leyenda": "entre 85 y 90 kilos"
+                },
+                {
+                    "valor": 11,
+                    "leyenda": "mas de 90 kilos"
+                }
+            ]
+        },
+        {
+            "ordinal": 4,
+            "selection":1,
+            "cabecera": {
+                "desc": "Ojos",
+                "longdesc": "Indica el color de los ojos"
+            },
+            "contenido": [
+                {
+                    "valor": 0,
+                    "leyenda": "Sin selección"
+                },
+                {
+                    "valor": 1,
+                    "leyenda": "cafe"
+                },
+                {
+                    "valor": 2,
+                    "leyenda": "negros"
+                },
+                {
+                    "valor": 3,
+                    "leyenda": "azules"
+                },
+                {
+                    "valor": 4,
+                    "leyenda": "verdes"
+                }
+            ]
+        },
+        {
+            "ordinal": 5,
+            "selection":0,
+            "cabecera": {
+                "desc": "Pelo",
+                "longdesc": "Indica el color del pelo"
+            },
+            "contenido": [
+                {
+                    "valor": 0,
+                    "leyenda": "Sin selección"
+                },
+                {
+                    "valor": 1,
+                    "leyenda": "Castano claro"
+                },
+                {
+                    "valor": 2,
+                    "leyenda": "Castano oscuro"
+                },
+                {
+                    "valor": 3,
+                    "leyenda": "Negro"
+                },
+                {
+                    "valor": 4,
+                    "leyenda": "Balnco"
+                },
+                {
+                    "valor": 5,
+                    "leyenda": "Sin pelo"
+                },
+                {
+                    "valor": 6,
+                    "leyenda": "Otro color"
+                }
+            ]
+        },
+        {
+            "ordinal": 6,
+            "selection":0,
+            "cabecera": {
+                "desc": "Piel",
+                "longdesc": "Indica el color de piel"
+            },
+            "contenido": [
+                {
+                    "valor": 0,
+                    "leyenda": "Sin selección"
+                },
+                {
+                    "valor": 1,
+                    "leyenda": "Moreno claro"
+                },
+                {
+                    "valor": 2,
+                    "leyenda": "Moreno oscuro"
+                },
+                {
+                    "valor": 3,
+                    "leyenda": "Negra"
+                },
+                {
+                    "valor": 4,
+                    "leyenda": "Blanca"
+                }
+            ]
+        },
+        {
+            "ordinal": 7,
+            "selection":2,
+            "cabecera": {
+                "desc": "Piercings",
+                "longdesc": "Indica cantidad de piercings"
+            },
+            "contenido": [
+                {
+                    "valor": 0,
+                    "leyenda": "Sin selección"
+                },
+                {
+                    "valor": 1,
+                    "leyenda": "Ninguno"
+                },
+                {
+                    "valor": 2,
+                    "leyenda": "Solo uno"
+                },
+                {
+                    "valor": 3,
+                    "leyenda": "varios"
+                }
+            ]
+        },
+        {
+            "ordinal": 8,
+            "selection":1,
+            "cabecera": {
+                "desc": "Tatuajes",
+                "longdesc": "Indica cantidad de tatuajes"
+            },
+            "contenido": [
+                {
+                    "valor": 0,
+                    "leyenda": "Sin selección"
+                },
+                {
+                    "valor": 1,
+                    "leyenda": "Ninguno"
+                },
+                {
+                    "valor": 2,
+                    "leyenda": "Solo uno"
+                },
+                {
+                    "valor": 3,
+                    "leyenda": "Entre dos y cuatro"
+                },
+                {
+                    "valor": 4,
+                    "leyenda": "Mas de cuatro"
+                }
+            ]
+        }
+    ]
+}

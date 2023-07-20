@@ -1,0 +1,52 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/perfil1 3.png",
+        "name": "gama",
+        "job": "tuberias",
+        "score":10,
+        "imagesService": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png"]
+      },
+      {
+        "id": 2,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/perfil2 1.png",
+        "name": "Andrea",
+        "job": "electricista",
+        "score":8,
+        "imagesService": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png"]
+      },
+      {
+        "id": 3,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/perfil3 1.png",
+        "name": "Ramon",
+        "job": "mecanico",
+        "score":2,
+        "imagesService": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png"]
+      },
+      {
+        "id": 4,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/gamaliel 1.png",
+        "name": "Adrian",
+        "job": "tuberias",
+        "score":7,
+        "imagesService": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png"]
+      },
+      {
+        "id": 5,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/perfil3 1.png",
+        "name": "Alan",
+        "job": "tuberias",
+        "score":5,
+        "imagesService": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png"]
+      },
+      {
+        "id": 6,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/gamaliel 1.png",
+        "name": "Pedro",
+        "job": "tuberias",
+        "score":6,
+        "imagesService": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png"]
+      }
+    ]
+  }

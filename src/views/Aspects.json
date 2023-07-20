@@ -1,0 +1,101 @@
+{
+    "aspects": [
+      {
+        "id": 1,
+        "label": "Edad",
+        "options": [
+          "Menos de 19 años",
+          "Entre 19 y 23 años",
+          "Entre 23 y 27 años",
+          "Entre 28 y 32 años",
+          "Entre 33 y 39 años",
+          "Entre 40 y 50 años",
+          "Entre 50 y 60 años",
+          "Más de 60 años"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Estatura",
+        "options": [
+            "menos de 1 metro con 40 cm",
+            "entre 1.40 y 1.50",
+            "entre 1.50 y 1.60",
+            "entre 1.60 y 1.65",
+            "entre 1.65 y 1.70",
+            "entre 1.70 y 1.75",
+            "entre 1.75 y 1.80",
+            "entre 1.80 y 1.90",
+            "mas de 1 metro con 90 cm"
+        ]
+      },
+      {
+        "id": 3,
+        "label": "Peso",
+        "options": [
+            "menos de 45 kilos",
+            "entre 45 y 50 kilos",
+            "entre 50 y 55 kilos",
+            "entre 55 y 60 kilos",
+            "entre 60 y 65 kilos",
+            "entre 65 y 70 kilos",
+            "entre 70 y 75 kilos",
+            "entre 75 y 80 kilos",
+            "entre 80 y 85 kilos",
+            "entre 85 y 90 kilos",
+            "mas de 90 kilos"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Ojos",
+        "options": [
+            "Cafe",
+            "Negros",
+            "Azules",
+            "Verdes"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "Pelo",
+        "options": [
+            "Castano claro",
+            "Castano oscuro",
+            "Negros",
+            "Blanco",
+            "Sin pelo",
+            "Otro color"
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Piel",
+        "options": [
+            "Moreno claro",
+            "Moreno oscuro",
+            "Negra",
+            "Blanca"
+        ]
+      },
+      {
+        "id": 7,
+        "label": "Piercings",
+        "options": [
+            "Ninguno",
+            "Solo uno",
+            "Varios"
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Tatuajes",
+        "options": [
+            "Ninguno",
+            "Solo uno",
+            "Entre dos y cuatro",
+            "Mas de cuatro"
+        ]
+      }
+    ]
+  }

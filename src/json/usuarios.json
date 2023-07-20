@@ -1,0 +1,69 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/perfil1 3.png",
+        "specialty": "instalacion de bombas",
+        "name": "Rodrigo",
+        "category": "plomero",
+        "description": "realizo trabajos de plomeria, entre otras cosas Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at semper justo. Mauris non urna nisl. In vel ex elit. Donec sed ligula non libero pretium gravida. Sed varius nulla sit amet diam bibendum dignissim.",
+        "services": ["trabajo1", "trabajo2"],
+        "direction": "México col ·23 delegación ",
+        "imagesServices": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png",
+        "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carpintero.png",
+        "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/albañil.png"]
+      },
+      {
+        "id": 2,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/perfil2 1.png",
+        "specialty": "instalacion de bombas",
+        "name": "Alejandra",
+        "category": "electricista",
+        "description": "realizo trabajos de plomeria, entre otras cosas Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at semper justo. Mauris non urna nisl. In vel ex elit. Donec sed ligula non libero pretium gravida. Sed varius nulla sit amet diam bibendum dignissim." ,
+        "services": ["trabajo1", "trabajo2"],
+        "direction": "Dirección 2",
+        "imagesServices": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png",
+        "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carpintero.png",
+        "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/albañil.png"]
+      },
+      {
+        "id": 3,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/perfil3 1.png",
+        "specialty": "instalacion de bombas",
+        "name": "Alan",
+        "category": "mecanico",
+        "description": "realizo trabajos de plomeria, entre otras cosas Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at semper justo. Mauris non urna nisl. In vel ex elit. Donec sed ligula non libero pretium gravida. Sed varius nulla sit amet diam bibendum dignissim.",
+        "services": ["trabajo1", "trabajo2"],
+        "direction": "Dirección 3",
+        "imagesServices": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png",
+        "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carpintero.png",
+        "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/albañil.png"]
+      },
+      {
+        "id": 4,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/gamaliel 1.png",
+        "specialty": "instalacion de bombas",
+        "name": "Juan",
+        "category": "tuberias",
+        "description": "realizo trabajos de plomeria, entre otras cosas Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at semper justo. Mauris non urna nisl. In vel ex elit. Donec sed ligula non libero pretium gravida. Sed varius nulla sit amet diam bibendum dignissim.",
+        "services": ["trabajo1", "trabajo2"],
+        "direction": "Dirección 4",
+        "imagesServices": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png",
+        "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carpintero.png",
+        "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/albañil.png"]
+      },
+      {
+        "id": 5,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/perfil3 1.png",
+        "specialty": "instalacion de bombas",
+        "name": "victor",
+        "category": "tuberias",
+        "description": "realizo trabajos de plomeria, entre otras cosas Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at semper justo. Mauris non urna nisl. In vel ex elit. Donec sed ligula non libero pretium gravida. Sed varius nulla sit amet diam bibendum dignissim.",
+        "services": ["trabajo1", "trabajo2"],
+        "direction": "Dirección 5",
+        "imagesServices": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png",
+        "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carpintero.png",
+        "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/albañil.png"]
+      }
+    ]
+  }

@@ -1,0 +1,47 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/perfil1 3.png",
+        "name": "Rodrigo",
+        "category": "Plomero",
+        "score": "4",
+        "totalScores": "7",
+        "latestJobs": [
+          {
+            "job": "arreglo de lavadero",
+            "nameUser": "jose gonzalez",
+            "comment": "gran trabajo arreglando la tuberia",
+            "score": "5"
+          },
+          {
+            "job": "arreglo de lavadero",
+            "nameUser": "Pedro Guzman",
+            "comment": "gran trabajo arreglando la tuberia",
+            "score": "5"
+          },
+          {
+            "job": "arreglo de lavadero",
+            "nameUser": "Pedro Guzman",
+            "comment": "gran trabajo arreglando la tuberia",
+            "score": "5"
+          }
+          ],
+        "imagesServices": [
+          "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png",
+          "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png",
+          "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png",
+          "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png",
+          "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carpintero.png",
+          "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/albañil.png"
+
+        ],
+        "services": [
+          {
+            "service": "Plomero",
+            "description": "instalaciones de tuberias y mas"
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,39 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/perfil1 3.png",
+        "name": "Rodrigo",
+        "job": "tuberias",
+        "imagesService": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png"]
+      },
+      {
+        "id": 2,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/perfil2 1.png",
+        "name": "Alejandra",
+        "job": "electricista",
+        "imagesService": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png"]
+      },
+      {
+        "id": 3,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/perfil3 1.png",
+        "name": "Alan",
+        "job": "mecanico",
+        "imagesService": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png"]
+      },
+      {
+        "id": 4,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/gamaliel 1.png",
+        "name": "Juan",
+        "job": "tuberias",
+        "imagesService": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png"]
+      },
+      {
+        "id": 5,
+        "profilePhoto": "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/perfil3 1.png",
+        "name": "Jose",
+        "job": "tuberias",
+        "imagesService": ["https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/plomeria1 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel2 1.png", "https://raw.githubusercontent.com/rusanchezg/templates-images/main/images/carousel1 1.png"]
+      }
+    ]
+  }
